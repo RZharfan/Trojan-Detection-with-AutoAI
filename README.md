@@ -1,6 +1,8 @@
 # Trojan-Detection-with-AutoAI
 
-
+#DataSet yang digunakan
+![](https://github.com/RZharfan/Trojan-Detection-with-AutoAI/blob/main/gambar/dataseet.PNG)
+Berikut ini link dari data set https://www.kaggle.com/datasets/subhajournal/trojan-detection
 
 # Architecture Diagram
 ![](https://github.com/RZharfan/Trojan-Detection-with-AutoAI/blob/main/gambar/arsitektur.png)
