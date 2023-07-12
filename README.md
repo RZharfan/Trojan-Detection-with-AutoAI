@@ -1,15 +1,15 @@
 # Trojan-Detection-with-AutoAI
 
 
+
 # Architecture Diagram
+![](https://github.com/RZharfan/Trojan-Detection-with-AutoAI/blob/main/gambar/arsitektur.png)
 
-![](https://github.com/IBM/predict-fraud-using-auto-ai/blob/master/images/architecture.png)
-
-1. User logs into Watson Studio, creates a project and initiates an instance of Auto AI & Object Storage.
-2. User uploads the data file in the CSV format to the object storage.
-3. User initiates the model building process using Auto AI and create pipelines.
-4. User evaluates different pipelines from Auto AI and selects the best model for deployment.
-5. User generates accurate predictions by making ReST call to the deployed model.
+1. Watson Studio digunakan untuk membuat project dan instance dari autoai.
+2. IBM cloud object storage sebagai tempat penyimpanan data project.
+3. watson machine learning yang digunakan sehingga watson studio dapat menggunakan teknologi AutoAI.
+4. User mengevalusi pipelines dari hasil AutoAI sehingga terpilih satu model yang akan dideploy.
+5. User membuat python notebook..
 
 ## Included components
 
